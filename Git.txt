@@ -1,0 +1,24 @@
+Git: --> VCS
+
+Version Control System:
+Records the change to a file or set of files
+Types: Local, Centrealized(Central copy of out project) and Distributed
+
+With the help of this we can manage different version of source code.
+Main responsibilties -> to keep all the team members are on the same page, mainly for collaboration.
+
+Repository acts like a server.
+It ll protect and track of all modification in the source code.
+
+Commit -- saving the changes and stored in the git directory
+Distributed --> own server for every single developer, they ll have copy of the entire history of code.
+Getting new changes from the repo --> pulling
+merging the changes to the repo --> pushing
+
+
+
+GIT:
+Every project contains this three sections:
+Working directory --> its on disk, checkout the project
+staging area --> all the files which are ready for commit
+Git directory --> repo
